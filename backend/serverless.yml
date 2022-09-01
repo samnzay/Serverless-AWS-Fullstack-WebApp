@@ -48,7 +48,7 @@ custom:
   documentation:
     api:
       info:
-        version: v1.0.20
+        version: v1.0.21
         title: API for the sls Todo App
         description: sls todo app
 
